@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Nunito Sans;
+    font-family: 'Nunito Sans';
 }
 
 body * {
@@ -672,7 +672,7 @@ div.form-request input {
     padding-left: 75px;
     width: 344px;
     color: #E3B873;
-    text-shadow: 0px 3px 10px 0px rgba(227, 184, 115, 0.15);
+    text-shadow: 0px 3px 10px rgba(227, 184, 115, 0.15);
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -851,7 +851,6 @@ div.form-request input {
     background: linear-gradient(180deg, rgba(24, 24, 24, 0.90) 3.47%, rgba(24, 24, 24, 0.72) 100%), url('img/image 7.2.jpg');
     height: 953px;
     position: absolute;
-    width: -webkit-fill-available;
 }
 
 form.questions {
